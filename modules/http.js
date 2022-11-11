@@ -16,5 +16,6 @@ const server = http.createServer((req,res)=>{
     //console.log(req);
     
 })
+//server.on();
 server.listen(5000);
                         
